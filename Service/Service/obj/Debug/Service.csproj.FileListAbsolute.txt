@@ -1,0 +1,10 @@
+C:\Users\Emel\Desktop\muh_2\Service\Service\bin\Service.dll.config
+C:\Users\Emel\Desktop\muh_2\Service\Service\bin\Service.dll
+C:\Users\Emel\Desktop\muh_2\Service\Service\bin\Service.pdb
+C:\Users\Emel\Desktop\muh_2\Service\Service\bin\EntityFramework.dll
+C:\Users\Emel\Desktop\muh_2\Service\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Emel\Desktop\muh_2\Service\Service\bin\EntityFramework.xml
+C:\Users\Emel\Desktop\muh_2\Service\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Emel\Desktop\muh_2\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Emel\Desktop\muh_2\Service\Service\obj\Debug\Service.dll
+C:\Users\Emel\Desktop\muh_2\Service\Service\obj\Debug\Service.pdb
